@@ -1,7 +1,9 @@
 //Author: Kyle Chen kvc5823@psu.edu
-//Collaborator:
-//Collaborator:
+//Collaborator: Shiquan Zhang spz5202@psu.edu
+//Collaborator: Brian Truong bqt5199@psu.edu
+//Collaborator: Adam Greenberg aqg5910@psu.edu
 //Section: 10R
+//Breakout Room 16
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
